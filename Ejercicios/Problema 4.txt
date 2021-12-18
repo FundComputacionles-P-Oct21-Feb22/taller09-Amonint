@@ -1,0 +1,20 @@
+1.Inicio
+2. (ventas(2)(5),i[0-n])
+3. fila, i[0-n]
+4. vendedores(2) x(60)[{A-Z},{a-z},{BS}])
+5. suma, d[0-n]
+6. Para(fila<--0, fila<2, 1) haga				
+7. Para(columna<--0, columna<5, 1) haga
+8. Escribir ingrese el valor de la venta
+9. Leer venta
+10. ventas[fila][columna]<-- venta 				
+11. suma<--suma + ventas[fila][columana]  					
+12.   Fin_Para	
+13. Escribir  "Ha realizado un total de"+" "+suma+"$"+" "+"en ventas" // Ha realizado un Total de 44$ en ventas
+14. Fin
+
+
+//pantalla
+//Vendedor(a) Jessica cole    
+//Vendedor(a) Robert Wallace    
+//Ha realizado un Total de 44$ en ventas
